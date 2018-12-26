@@ -1,4 +1,4 @@
-# flappy-bird
-A recreation of flappy bird
+# Flappy Bird
+A recreation of flappy bird using Python
 
-# How to get it running
+## How to get it running
